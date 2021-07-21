@@ -7,7 +7,6 @@ The Practice folder contains my solution to the following practice projects:
 * Getting Ready for the Physics Class - functions;
 * Thread Shed - strings;
 * Scrabble - dictionaries;
-* Hacking the Fender - files;
 * Basta Fazoolin' Restaurant - classes
 
 ## Challenges
